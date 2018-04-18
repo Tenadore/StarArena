@@ -1,0 +1,27 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{C81988EF-95AF-DC1A-2F5C-7E6F3E181288}") = "StarArrena6.7", "Assembly-CSharp-firstpass-vs.csproj", "{13063FFB-623B-E055-D961-BF5900D5F6C1}"
+EndProject
+Project("{C81988EF-95AF-DC1A-2F5C-7E6F3E181288}") = "StarArrena6.7", "Assembly-CSharp-vs.csproj", "{9260A8D8-760F-6906-2422-34F6CF1C2E76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13063FFB-623B-E055-D961-BF5900D5F6C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13063FFB-623B-E055-D961-BF5900D5F6C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13063FFB-623B-E055-D961-BF5900D5F6C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13063FFB-623B-E055-D961-BF5900D5F6C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9260A8D8-760F-6906-2422-34F6CF1C2E76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9260A8D8-760F-6906-2422-34F6CF1C2E76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9260A8D8-760F-6906-2422-34F6CF1C2E76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9260A8D8-760F-6906-2422-34F6CF1C2E76}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	
+EndGlobal

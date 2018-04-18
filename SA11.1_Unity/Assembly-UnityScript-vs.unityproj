@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+	<Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+	<ProductVersion>10.0.20506</ProductVersion>
+	<SchemaVersion>2.0</SchemaVersion>
+	<ProjectGuid>{EC2ABED9-8C5E-0E07-8F54-A8FE7089EEC3}</ProjectGuid>
+	<OutputType>Library</OutputType>
+	<AppDesignerFolder>Properties</AppDesignerFolder>
+	<RootNamespace></RootNamespace>
+	<AssemblyName>Assembly-UnityScript</AssemblyName>
+	<TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+	<FileAlignment>512</FileAlignment>
+	<BaseDirectory>Assets</BaseDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+	<DebugSymbols>true</DebugSymbols>
+	<DebugType>full</DebugType>
+	<Optimize>false</Optimize>
+	<OutputPath>Temp\bin\Debug\</OutputPath>
+	<DefineConstants>DEBUG;TRACE;UNITY_4_5_5;UNITY_4_5;UNITY_ANDROID;ENABLE_MICROPHONE;ENABLE_TEXTUREID_MAP;ENABLE_UNITYEVENTS;ENABLE_NEW_HIERARCHY ;ENABLE_AUDIO_FMOD;ENABLE_MONO;ENABLE_TERRAIN;ENABLE_SUBSTANCE;ENABLE_GENERICS;INCLUDE_WP8SUPPORT;ENABLE_WWW;ENABLE_IMAGEEFFECTS;INCLUDE_WP_BLUE_SUPPORT;ENABLE_WEBCAM;INCLUDE_METROSUPPORT;RENDER_SOFTWARE_CURSOR;ENABLE_NETWORK;ENABLE_PHYSICS;ENABLE_CACHING;ENABLE_CLOTH;UNITY_ANDROID_API;ENABLE_2D_PHYSICS;ENABLE_SHADOWS;ENABLE_AUDIO;ENABLE_NAVMESH_CARVING;ENABLE_SINGLE_INSTANCE_BUILD_SETTING;ENABLE_PROFILER;UNITY_EDITOR;UNITY_EDITOR_WIN;UNITY_TEAM_LICENSE;UNITY_PRO_LICENSE</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+	<DebugType>pdbonly</DebugType>
+	<Optimize>true</Optimize>
+	<OutputPath>Temp\bin\Release\</OutputPath>
+	<DefineConstants>TRACE</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+	<Reference Include="System" />
+    <Reference Include="System.XML" />
+	<Reference Include="System.Core" />
+	<Reference Include="System.Xml.Linq" />
+	<Reference Include="UnityEngine">
+	  <HintPath>C:/Unity45_5/Editor/Data/Managed/UnityEngine.dll</HintPath>
+	</Reference>
+	<Reference Include="UnityEditor">
+	  <HintPath>C:/Unity45_5/Editor/Data/Managed/UnityEditor.dll</HintPath>
+	</Reference>
+  </ItemGroup>
+  <ItemGroup>
+     <Compile Include="Assets\DBTest.js" />
+     <Compile Include="Assets\DatedImports\102713 Ambience\AmbientSound.js" />
+     <Compile Include="Assets\DatedImports\92013leaderboardsetup\LeaderboardGUIstuff.js" />
+     <Compile Include="Assets\DatedImports\92613LERPCAM\CameraFOVLerp.js" />
+     <Compile Include="Assets\DatedImports\93013_Interneterror\MStester.js" />
+     <Compile Include="Assets\DatedImports\9613StarMap\Camera_StarMap.js" />
+     <Compile Include="Assets\DynamicElements_Effects\scripts\ParticleScale.js" />
+     <Compile Include="Assets\DynamicElements_Effects\scripts\PrefabGenerator.js" />
+     <Compile Include="Assets\DynamicElements_Effects\scripts\Raycast.js" />
+     <Compile Include="Assets\DynamicElements_Effects\scripts\activateWithDelay.js" />
+     <Compile Include="Assets\DynamicElements_Effects\scripts\destroyThisTimed.js" />
+     <Compile Include="Assets\DynamicElements_Effects\scripts\moveThis.js" />
+     <Compile Include="Assets\DynamicElements_Effects\scripts\moveThisAdvanced.js" />
+     <Compile Include="Assets\DynamicElements_Effects\scripts\rampDownParticle.js" />
+     <Compile Include="Assets\DynamicElements_Effects\scripts\rotateThis.js" />
+     <Compile Include="Assets\DynamicElements_Effects\scripts\scaleThisTimed.js" />
+     <Compile Include="Assets\KillUnits.js" />
+     <Compile Include="Assets\LowBaseHealthNuke.js" />
+     <Compile Include="Assets\NewPrefabs\destroy.js" />
+     <Compile Include="Assets\PREFABS\AWinLose\ServerLose.js" />
+     <Compile Include="Assets\PREFABS\AWinLose\ServerWin.js" />
+     <Compile Include="Assets\PREFABS\Bases\Nukes\Nuke.js" />
+     <Compile Include="Assets\PREFABS\Characters\Red\Prefabs\muzzleFlash.js" />
+     <Compile Include="Assets\PREFABS\ScreenSplashBlueAlien.js" />
+     <Compile Include="Assets\PREFABS\ScreenSplashRedAlien.js" />
+     <Compile Include="Assets\PREFABS\SplashScreenBlue.js" />
+     <Compile Include="Assets\PREFABS\SplashScreenRed.js" />
+     <Compile Include="Assets\PREFABS\aArrowObjects\Level3ArrowBlue.js" />
+     <Compile Include="Assets\PREFABS\aArrowObjects\Level3ArrowRed.js" />
+     <Compile Include="Assets\ParticleSystems\Scripts\PlanetMouseOrbit.js" />
+     <Compile Include="Assets\ParticleSystems\Scripts\particleSystemChanger.js" />
+     <Compile Include="Assets\Scripts\AI.js" />
+     <Compile Include="Assets\Scripts\AIAlien.js" />
+     <Compile Include="Assets\Scripts\AIHuman.js" />
+     <Compile Include="Assets\Scripts\AI_Tutorial.js" />
+     <Compile Include="Assets\Scripts\AnimLoop.js" />
+     <Compile Include="Assets\Scripts\AnimRunLoop_UnitPedia.js" />
+     <Compile Include="Assets\Scripts\BaseGUI.js" />
+     <Compile Include="Assets\Scripts\BaseHealth_Manager.js" />
+     <Compile Include="Assets\Scripts\BaseManager.js" />
+     <Compile Include="Assets\Scripts\ButtonHolder_Placement.js" />
+     <Compile Include="Assets\Scripts\CameraControls.js" />
+     <Compile Include="Assets\Scripts\EndGameScrollingStuff\EndGameController.js" />
+     <Compile Include="Assets\Scripts\Fx\MobileBloom.js" />
+     <Compile Include="Assets\Scripts\GameGUI_Manager.js" />
+     <Compile Include="Assets\Scripts\GameGUI_SinglePlayer.js" />
+     <Compile Include="Assets\Scripts\GameGUI_Tutorial.js" />
+     <Compile Include="Assets\Scripts\MainMenu\MainMenu.js" />
+     <Compile Include="Assets\Scripts\MainMenu\SaveTest.js" />
+     <Compile Include="Assets\Scripts\MainMenu\ServerTest.js" />
+     <Compile Include="Assets\Scripts\Marine\Blue\BLUE_Marine_V2.js" />
+     <Compile Include="Assets\Scripts\Marine\Blue\BasicMovement_BLUE_Marine.js" />
+     <Compile Include="Assets\Scripts\Marine\CreateClone.js" />
+     <Compile Include="Assets\Scripts\Marine\Red\BasicMovement_RED_Marine.js" />
+     <Compile Include="Assets\Scripts\NetworkTestScene\ConnectionGUI.js" />
+     <Compile Include="Assets\Scripts\NetworkTestScene\Wifi Test.js" />
+     <Compile Include="Assets\Scripts\Network_CreatesGameGUIManager_.js" />
+     <Compile Include="Assets\Scripts\NukeMP.js" />
+     <Compile Include="Assets\Scripts\NukeSplashManager_Blue.js" />
+     <Compile Include="Assets\Scripts\NukeSplashManager_Red.js" />
+     <Compile Include="Assets\Scripts\OLDButton_Press.js" />
+     <Compile Include="Assets\Scripts\Single Player\SinglePlayer_LoadScreen.js" />
+     <Compile Include="Assets\Scripts\Single Player\StarMap_Controller.js" />
+     <Compile Include="Assets\Scripts\Sniper\Red\BasicMovement_Red_Sniper.js" />
+     <Compile Include="Assets\Scripts\Turret_Controller.js" />
+     <Compile Include="Assets\Scripts\UnitController_Tutorial.js" />
+     <Compile Include="Assets\Scripts\UnitKillerTutorial.js" />
+     <Compile Include="Assets\Scripts\Unitcontroller.js" />
+     <Compile Include="Assets\Scripts\Unitcontroller2.js" />
+     <Compile Include="Assets\Scripts\a_ArrowRedPlayer.js" />
+     <Compile Include="Assets\Scripts\a_GUIPLACEMENT.js" />
+     <Compile Include="Assets\Scripts\loader\loader.js" />
+     <Compile Include="Assets\Scripts\muzzleflashrender.js" />
+     <Compile Include="Assets\Scripts\muzzletest.js" />
+     <Compile Include="Assets\WinLoseCampaign.js" />
+     <Compile Include="Assets\a_arrowBluePlayer.js" />
+     <Compile Include="Assets\movie.js" />
+     <Compile Include="Assets\nukebyalien.js" />
+     <Compile Include="Assets\spawnDrudge.js" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_BloomAndFlares\BlendOneOne.shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\NoiseEffectShaderRGB.shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_DepthOfField\SeparableWeightedBlurDof34.shader" />
+     <None Include="Assets\Plugins\Android\build.xml" />
+     <None Include="Assets\echoLogin\PFX\Resources\echoLogin-postfx-Level1-group1_pass4.shader" />
+     <None Include="Assets\echoLogin\PFX\Templates\echoLogin-postfx-frag-blur.cginc" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\ShowAlphaChannel.shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\GlowConeTap.shader" />
+     <None Include="Assets\echoLogin\PFX\Resources\echoLogin-postfx-Level1-group1_pass1.shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\SunShaftsComposite.shader" />
+     <None Include="Assets\echoLogin\PFX\Resources\echoLogin-postfx-Level1-group0_pass2.shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\ColorCorrectionCurves.shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\ScreenSpaceAmbientObscurance.shader" />
+     <None Include="Assets\Plugins\Android\res\layout-v11\status_bar_ongoing_event_progress_bar.xml" />
+     <None Include="Assets\echoLogin\PFX\Templates\echoLogin-postfx-template.txt" />
+     <None Include="Assets\echoLogin\PFX\Resources\echoLogin-postfx-Level1-group2_pass1.shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_Antialiasing\NFAA.shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_DepthOfField\TiltShiftHdrLensBlur.shader" />
+     <None Include="Assets\Maps\82013\Buttons\Notes.txt" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_BloomAndFlares\VignetteShader.shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_DepthOfField\DepthOfFieldScatter.shader" />
+     <None Include="Assets\echoLogin\PFX\Templates\echoLogin-postfx-frag-rgb-separate.cginc" />
+     <None Include="Assets\echoLogin\PFX\Templates\echoLogin-postfx-frag-greyscale.cginc" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\MotionBlur.shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_BloomAndFlares\MobileBloom.shader" />
+     <None Include="Assets\Standard Assets\Particles\Sources\Shaders\Particle Alpha Blend (Queue +100).shader" />
+     <None Include="Assets\Maps\82013\AA_Alternate Error Text\Notes.txt" />
+     <None Include="Assets\PieMenu\readme.txt" />
+     <None Include="Assets\echoLogin\PFX\Resources\echoLogin-postfx-scene1-group1_pass3.shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\GlowCompose.shader" />
+     <None Include="Assets\echoLogin\PFX\Resources\echoLogin-postfx-scene1-group0_pass2.shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\Contrast Stretch\MinMaxReduction.shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_Antialiasing\SSAA.shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\RadialBlur.shader" />
+     <None Include="Assets\echoLogin\PFX\Resources\echoLogin-postfx-scene1-group1_pass2.shader" />
+     <None Include="Assets\echoLogin\PFX\Resources\echoLogin-postfx-scene1-group2_pass2.shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_DepthOfField\DepthOfFieldDX11.shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\ContrastComposite.shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_Antialiasing\FXAAPreset3.shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\FisheyeShader.shader" />
+     <None Include="Assets\Plugins\Android\res\values-v9\styles.xml" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\Contrast Stretch\Apply.shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\frag_ao.cginc" />
+     <None Include="Assets\echoLogin\PFX\Templates\echoLogin-postfx-frag-gamma.cginc" />
+     <None Include="Assets\Plugins\Android\res\layout\main.xml" />
+     <None Include="Assets\echoLogin\PFX\Templates\echoLogin-postfx-vertex-distort.cginc" />
+     <None Include="Assets\Plugins\Android\res\values-v11\styles.xml" />
+     <None Include="Assets\echoLogin\PFX\Resources\echoLogin-postfx-scene1-group0_pass3.shader" />
+     <None Include="Assets\echoLogin\PFX\Templates\echoLogin-postfx-frag-contrast.cginc" />
+     <None Include="Assets\echoLogin\PFX\Resources\echoLogin-postfx-Level1-group2_pass2.shader" />
+     <None Include="Assets\echoLogin\PFX\Templates\echoLogin-postfx-frag-color.cginc" />
+     <None Include="Assets\echoLogin\PFX\Resources\echoLogin-postfx-Level1-group1_pass3.shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_DepthOfField\DepthOfField34.shader" />
+     <None Include="Assets\echoLogin\PFX\Resources\echoLogin-postfx-scene1-group2_pass3.shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_BloomAndFlares\MobileBlur.shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\SSAOShader.shader" />
+     <None Include="Assets\echoLogin\PFX\Resources\echoLogin-postfx-scene1-group0_pass1.shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\ConvertDepth.shader" />
+     <None Include="Assets\Scripts\MobileBloom.shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\ColorCorrectionCurvesSimple.shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\NoiseEffectShaderYUV.shader" />
+     <None Include="Assets\DynamicElements_Effects\readme.txt" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\GlowEffectDownsample.shader" />
+     <None Include="Assets\echoLogin\PFX\Resources\echoLogin-postfx-Level1-group0_pass1.shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\CreaseApply.shader" />
+     <None Include="Assets\Standard Assets\Water (Basic)\Sources\Shaders\FX-Water Simple.shader" />
+     <None Include="Assets\echoLogin\PFX\Templates\echoLogin-postfx-frag-ramp.cginc" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\ChromaticAberrationShader.shader" />
+     <None Include="Assets\echoLogin\PFX\Resources\echoLogin-postfx-scene1-group0_pass4.shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\GlobalFog.shader" />
+     <None Include="Assets\Maps\82013\Slider_SkinImages\Notes.txt" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\Contrast Stretch\Luminance.shader" />
+     <None Include="Assets\echoLogin\PFX\Resources\echoLogin-postfx-Level1-group2_pass4.shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\ColorCorrectionSelective.shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_DepthOfField\Bokeh34.shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\CameraMotionBlurDX11.shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_BloomAndFlares\SeparableBlurPlus.shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_BloomAndFlares\MultiPassHollywoodFlares.shader" />
+     <None Include="Assets\README.txt" />
+     <None Include="Assets\echoLogin\PFX\Templates\echoLogin-postfx-frag-colorcorrect.cginc" />
+     <None Include="Assets\Plugins\Android\res\layout\status_bar_ongoing_event_progress_bar.xml" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\BlurEffectConeTaps.shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\CameraMotionBlur.shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_Antialiasing\DLAA.shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\NoiseAndGrainDX11.shader" />
+     <None Include="Assets\echoLogin\PFX\Templates\echoLogin-postfx-frag-inverse.cginc" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_BloomAndFlares\BrightPassFilter2.shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_DepthOfField\SeparableBlur.shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\MotionBlurClear.shader" />
+     <None Include="Assets\echoLogin\PFX\Templates\echoLogin-postfx-frag-texture.cginc" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\ColorCorrectionEffect.shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\GrayscaleEffect.shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\SepiaToneEffect.shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\TwirlEffect.shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\VortexEffect.shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\Contrast Stretch\Adaptation.shader" />
+     <None Include="Assets\Maps\82013\Alternate Error Text\Notes.txt" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\NoiseAndGrain.shader" />
+     <None Include="Assets\echoLogin\PFX\Resources\echoLogin-postfx-Level1-group0_pass3.shader" />
+     <None Include="Assets\echoLogin\PFX\Templates\echoLogin-postfx-frag-custom.cginc" />
+     <None Include="Assets\Maps\82013\AdditionalButtonsBackplatesChoiceImages\Notes.txt" />
+     <None Include="Assets\echoLogin\PFX\Resources\echoLogin-postfx-scene1-group2_pass4.shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\VignettingShader.shader" />
+     <None Include="Assets\echoLogin\PFX\Resources\echoLogin-postfx-Level1-group0_pass4.shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\Tonemapper.shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_BloomAndFlares\BrightPassFilter.shader" />
+     <None Include="Assets\echoLogin\PFX\Resources\echoLogin-postfx-Level1-group2_pass3.shader" />
+     <None Include="Assets\echoLogin\PFX\Resources\echoLogin-postfx-scene1-group1_pass4.shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_Antialiasing\FXAA2.shader" />
+     <None Include="Assets\Plugins\Android\res\values\styles.xml" />
+     <None Include="Assets\Maps\82013\Arrows_wTransparency\ArrowAnimationFrames_Notes.txt" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\ColorCorrection3DLut.shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_BloomAndFlares\LensFlareCreate.shader" />
+     <None Include="Assets\echoLogin\PFX\Resources\echoLogin-postfx-scene1-group1_pass1.shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\EdgeDetectNormals.shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\PrepareSunShaftsBlur.shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_BloomAndFlares\Blend.shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\BlendModesOverlay.shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\SimpleClear.shader" />
+     <None Include="Assets\echoLogin\PFX\Resources\echoLogin-postfx-scene1-group2_pass1.shader" />
+     <None Include="Assets\echoLogin\PFX\Resources\echoLogin-postfx-Level1-group1_pass2.shader" />
+     <None Include="Assets\Maps\82013\Repeats\Notes.txt" />
+     <None Include="Assets\Plugins\Android\res\values\strings.xml" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_Antialiasing\FXAA3Console.shader" />
+     <None Include="Assets\Plugins\Android\res\values\main-strings.xml" />
+     <None Include="Assets\echoLogin\PFX\Templates\echoLogin-postfx-frag-scanlines.cginc" />
+     <None Include="Assets\echoLogin\PFX\Templates\echoLogin-postfx-frag-posterize.cginc" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_Antialiasing\FXAAPreset2.shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_BloomAndFlares\BlurAndFlares.shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_BloomAndFlares\BlendForBloom.shader" />
+ <Reference Include="Assembly-UnityScript-firstpass">
+ <HintPath>D:/Data/Projects_GameDev/A_Star Arena_FinishedBuilds/Star Arena_MASTER/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>
+ </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="Assembly-CSharp-firstpass-vs.csproj">
+      <Project>{BB8F09EF-B044-78FC-5103-CD08D4F0A045}</Project>      <Name>Assembly-CSharp-firstpass-vs</Name>    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+	   Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  
+</Project>

@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Network_CreatesGameGUIManager_.js">
+    <Files>
+      <File FileName="Assets\Scripts\MainMenu\MainMenu.js" Line="2198" Column="1" />
+      <File FileName="Assets\Scripts\GameGUI_SinglePlayer.js" Line="1221" Column="4" />
+      <File FileName="Assets\Scripts\GameGUI_Manager.js" Line="1113" Column="25" />
+      <File FileName="Assets\Scripts\Single Player\StarMap_Controller.js" Line="395" Column="20" />
+      <File FileName="Assets\Scripts\Network_CreatesGameGUIManager_.js" Line="14" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

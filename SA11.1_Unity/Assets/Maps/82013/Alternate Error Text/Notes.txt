@@ -1,0 +1,3 @@
+If we do not want the error displayed as a backplate (see backplates folder for examples), and instead as a text label,
+
+We can use these, as they will fit directly to the right of the log in/create account text fields 

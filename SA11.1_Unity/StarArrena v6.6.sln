@@ -1,0 +1,39 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{2EEE77A0-1283-379D-2079-16C8D7289E34}") = "StarArrena v6.6", "Assembly-CSharp-firstpass.csproj", "{22176E5E-717B-54B5-AD8A-A6B52970195A}"
+EndProject
+Project("{2EEE77A0-1283-379D-2079-16C8D7289E34}") = "StarArrena v6.6", "Assembly-CSharp.csproj", "{890B9918-DC2C-45E5-D721-6B7B03CA79F3}"
+EndProject
+Project("{2EEE77A0-1283-379D-2079-16C8D7289E34}") = "StarArrena v6.6", "Assembly-UnityScript-firstpass.unityproj", "{0AB7A7D3-0F6B-1608-CD9A-D4386C8396E9}"
+EndProject
+Project("{2EEE77A0-1283-379D-2079-16C8D7289E34}") = "StarArrena v6.6", "Assembly-UnityScript.unityproj", "{58F70507-A76C-853D-F4F8-2E5546876692}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22176E5E-717B-54B5-AD8A-A6B52970195A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22176E5E-717B-54B5-AD8A-A6B52970195A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22176E5E-717B-54B5-AD8A-A6B52970195A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22176E5E-717B-54B5-AD8A-A6B52970195A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{890B9918-DC2C-45E5-D721-6B7B03CA79F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{890B9918-DC2C-45E5-D721-6B7B03CA79F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{890B9918-DC2C-45E5-D721-6B7B03CA79F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{890B9918-DC2C-45E5-D721-6B7B03CA79F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AB7A7D3-0F6B-1608-CD9A-D4386C8396E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AB7A7D3-0F6B-1608-CD9A-D4386C8396E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AB7A7D3-0F6B-1608-CD9A-D4386C8396E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AB7A7D3-0F6B-1608-CD9A-D4386C8396E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58F70507-A76C-853D-F4F8-2E5546876692}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58F70507-A76C-853D-F4F8-2E5546876692}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58F70507-A76C-853D-F4F8-2E5546876692}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58F70507-A76C-853D-F4F8-2E5546876692}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	
+EndGlobal

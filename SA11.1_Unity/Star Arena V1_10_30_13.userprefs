@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\MainMenu\MainMenu.js">
+    <Files>
+      <File FileName="Assets\Scripts\MainMenu\MainMenu.js" Line="1661" Column="4" />
+      <File FileName="Assets\Plugins\Android\GooglePlayDownloader.cs" Line="8" Column="430" />
+      <File FileName="Assets\DownloadObbExample.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameGUI_Manager.js" Line="1674" Column="34" />
+      <File FileName="Assets\Scripts\Unitcontroller.js" Line="1585" Column="1" />
+      <File FileName="Assets\Plugins\Android\AndroidManifest.xml" Line="5" Column="33" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

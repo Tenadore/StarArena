@@ -1,0 +1,22 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\GameGUI_SinglePlayer.js">
+    <Files>
+      <File FileName="Assets\Scripts\GameGUI_SinglePlayer.js" Line="1552" Column="5" />
+      <File FileName="Assets\Scripts\Unitcontroller.js" Line="1059" Column="50" />
+      <File FileName="Assets\Scripts\Turret_Controller.js" Line="30" Column="16" />
+      <File FileName="Assets\Scripts\MainMenu\MainMenu.js" Line="4" Column="15" />
+      <File FileName="Assets\movie.js" Line="8" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="D:\1A_StarArenaBetas_\9-20-13 Star Arena\Assets\Scripts\GameGUI_SinglePlayer.js" line="3540" />
+      <Breakpoint file="D:\1A_StarArenaBetas_\9-20-13 Star Arena\Assets\Scripts\GameGUI_SinglePlayer.js" line="3539" />
+      <Breakpoint file="D:\1A_StarArenaBetas_\9-20-13 Star Arena\Assets\Scripts\GameGUI_SinglePlayer.js" line="3538" />
+      <Breakpoint file="D:\1A_StarArenaBetas_\9-20-13 Star Arena\Assets\Scripts\GameGUI_SinglePlayer.js" line="3537" />
+      <Breakpoint file="D:\1A_StarArenaBetas_\9-20-13 Star Arena\Assets\Scripts\GameGUI_SinglePlayer.js" line="3536" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

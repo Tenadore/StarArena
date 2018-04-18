@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 582a0107a8a8ad64199c253d218c2ecd
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - serverPrefab: {fileID: 100000, guid: 4b4dfc9a431ff464e8a17e18f9e2932d, type: 2}
+  - clientPrefab: {fileID: 100000, guid: 70511428a39ba4842ae00596f2ea4122, type: 2}
+  - spawnPoint: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

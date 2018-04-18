@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\GameGUI_SinglePlayer.js">
+    <Files>
+      <File FileName="Assets\Scripts\GameGUI_SinglePlayer.js" Line="1195" Column="13" />
+      <File FileName="Assets\Scripts\Single Player\StarMap_Controller.js" Line="177" Column="5" />
+      <File FileName="Assets\movie.js" Line="6" Column="69" />
+      <File FileName="Assets\Scripts\EndGameScrollingStuff\EndGameController.js" Line="32" Column="33" />
+      <File FileName="Assets\Scripts\MainMenu\MainMenu.js" Line="348" Column="30" />
+      <File FileName="Assets\9613StarMap\Camera_StarMap.js" Line="145" Column="47" />
+      <File FileName="Assets\102713 Ambience\AmbientSound.js" Line="31" Column="16" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

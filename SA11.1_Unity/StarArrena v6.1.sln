@@ -1,0 +1,39 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{83E69C5B-A3A5-5202-E22D-1B9427398939}") = "StarArrena v6.1", "Assembly-CSharp-firstpass.csproj", "{1F6F71AA-9287-A275-27F9-6FB460AEE2F7}"
+EndProject
+Project("{83E69C5B-A3A5-5202-E22D-1B9427398939}") = "StarArrena v6.1", "Assembly-CSharp.csproj", "{852D382B-5C87-B892-236C-0B697A16CFAC}"
+EndProject
+Project("{83E69C5B-A3A5-5202-E22D-1B9427398939}") = "StarArrena v6.1", "Assembly-UnityScript-firstpass.unityproj", "{74FD93C8-70C7-2E88-15AB-AD21505E60DB}"
+EndProject
+Project("{83E69C5B-A3A5-5202-E22D-1B9427398939}") = "StarArrena v6.1", "Assembly-UnityScript.unityproj", "{AFE22A87-AD27-428F-4EA8-7748833C11A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F6F71AA-9287-A275-27F9-6FB460AEE2F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F6F71AA-9287-A275-27F9-6FB460AEE2F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F6F71AA-9287-A275-27F9-6FB460AEE2F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F6F71AA-9287-A275-27F9-6FB460AEE2F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{852D382B-5C87-B892-236C-0B697A16CFAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{852D382B-5C87-B892-236C-0B697A16CFAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{852D382B-5C87-B892-236C-0B697A16CFAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{852D382B-5C87-B892-236C-0B697A16CFAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74FD93C8-70C7-2E88-15AB-AD21505E60DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74FD93C8-70C7-2E88-15AB-AD21505E60DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74FD93C8-70C7-2E88-15AB-AD21505E60DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74FD93C8-70C7-2E88-15AB-AD21505E60DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFE22A87-AD27-428F-4EA8-7748833C11A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFE22A87-AD27-428F-4EA8-7748833C11A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFE22A87-AD27-428F-4EA8-7748833C11A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFE22A87-AD27-428F-4EA8-7748833C11A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	
+EndGlobal

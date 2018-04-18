@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\MainMenu\MainMenu.js">
+    <Files>
+      <File FileName="Assets\Scripts\a_GUIPLACEMENT.js" Line="33" Column="65" />
+      <File FileName="Assets\Scripts\MainMenu\MainMenu.js" Line="723" Column="42" />
+      <File FileName="Assets\Scripts\GameGUI_SinglePlayer.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameGUI_Manager.js" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,223 @@
+fileFormatVersion: 2
+guid: a0d22f3251447a148b20dc71c5b0c092
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: healthorb
+    100004: Bone001
+    100006: Bone013_Main
+    100008: Arbiter_1
+    100010: muzzleflash
+    100012: IK Chain005
+    100014: IK Chain006
+    100016: Group004
+    100018: IK Chain008
+    100020: IK Chain007
+    100022: Group003
+    100024: IK Chain002
+    100026: IK Chain001
+    100028: Group002
+    100030: IK Chain004
+    100032: IK Chain003
+    100034: Group001
+    100036: Bone020
+    100038: Bone006
+    100040: Bone005
+    100042: Bone004
+    100044: Bone018
+    100046: Bone012
+    100048: Bone011
+    100050: Bone010
+    100052: Bone017
+    100054: Bone009
+    100056: Bone008
+    100058: Bone007
+    100060: Bone016
+    100062: Bone015
+    100064: Bone014
+    100066: Bone013
+    100068: Bone019
+    100070: Bone003
+    100072: Bone002
+    100074: Dummy_Main_Arbiter
+    400000: //RootNode
+    400002: healthorb
+    400004: Bone001
+    400006: Bone013_Main
+    400008: Arbiter_1
+    400010: muzzleflash
+    400012: IK Chain005
+    400014: IK Chain006
+    400016: Group004
+    400018: IK Chain008
+    400020: IK Chain007
+    400022: Group003
+    400024: IK Chain002
+    400026: IK Chain001
+    400028: Group002
+    400030: IK Chain004
+    400032: IK Chain003
+    400034: Group001
+    400036: Bone020
+    400038: Bone006
+    400040: Bone005
+    400042: Bone004
+    400044: Bone018
+    400046: Bone012
+    400048: Bone011
+    400050: Bone010
+    400052: Bone017
+    400054: Bone009
+    400056: Bone008
+    400058: Bone007
+    400060: Bone016
+    400062: Bone015
+    400064: Bone014
+    400066: Bone013
+    400068: Bone019
+    400070: Bone003
+    400072: Bone002
+    400074: Dummy_Main_Arbiter
+    2300000: healthorb
+    3300000: healthorb
+    4300000: Arbiter_1
+    4300002: muzzleflash
+    4300004: healthorb
+    7400000: Take 001
+    7400002: run
+    7400004: shoot
+    7400006: die
+    11100000: //RootNode
+    13700000: Arbiter_1
+    13700002: muzzleflash
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: run
+      takeName: 
+      firstFrame: 0
+      lastFrame: 23
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: shoot
+      takeName: 
+      firstFrame: 25
+      lastFrame: 53
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: die
+      takeName: 
+      firstFrame: 56
+      lastFrame: 80
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .0900000036
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  userData: 

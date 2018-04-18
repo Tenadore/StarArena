@@ -1,0 +1,87 @@
+ECHO_SHADER_NAME:
+{
+	//=========================================================================
+	SubShader 
+	{
+		Tags { "Queue" = "Geometry" "IgnoreProjector"="True" "RenderType"="Opaque" }
+
+    	Pass 
+		{    
+			ECHO_BLEND_MODE:
+    		ZTest Always
+     		Cull Off 
+     		ZWrite Off
+     		Fog { Mode Off }
+     		Lighting Off   
+     		
+			CGPROGRAM
+			
+ 			#pragma vertex vert
+			#pragma fragment frag
+			#pragma exclude_renderers flash
+			#pragma fragmentoption ARB_precision_hint_fastest
+
+			#define PI  3.141592
+			#define PI2 6.283185
+			
+			ECHO_DEFINES:
+			
+			ECHO_KEYWORDS:
+
+			float4      _echoScreenInfo;
+			float4 		_echoVertTime;
+			ECHOVAR4 	_echoFragTime;
+			sampler2D   _CameraDepthTexture;
+			sampler2D	_echoScreen;
+			float4		_echoScreen_ST;
+			ECHOVAR4	_echoScreen_TexelSize;
+			
+			ECHO_UNIFORMS_INSERT:
+			
+			// ============================================= 	
+           	struct VertInput
+            {
+                float4 vertex	: POSITION;
+                float2 texcoord	: TEXCOORD0;
+                float4 color    : COLOR;
+           };
+
+			// ============================================= 	
+           	struct Varys
+            {
+                half4 pos		: POSITION;
+				ECHO_VARYING_INSERT:
+		    };
+
+			// ============================================= 	
+			Varys vert ( VertInput ad )
+			{
+				Varys v;
+
+    			v.pos			= mul ( UNITY_MATRIX_MVP, ad.vertex );
+
+   				v.tc1.xy  		= ( ad.texcoord.xy  * _echoScreen_ST.xy ) + _echoScreen_ST.zw;
+   				
+				ECHO_VERTEX_INSERT:
+			
+				return v;
+			}
+ 	
+			// ============================================= 	
+			ECHOVAR4 frag ( Varys v ):COLOR
+			{
+				half2 _echoTC = v.tc1.xy;
+
+				ECHO_FRAGTCMOD_INSERT:
+			
+				ECHO_READ_SCREEN:
+
+				ECHO_FRAG_INSERT:
+
+				ECHO_RETURN_VAL:
+			}
+
+			ENDCG
+		}
+ 	}
+ }

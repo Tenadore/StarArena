@@ -1,0 +1,23 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\AIAlien.js">
+    <Files>
+      <File FileName="Assets\Scripts\GameGUI_Manager.js" Line="1380" Column="46" />
+      <File FileName="Assets\Scripts\NukeMP.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Unitcontroller.js" Line="1256" Column="48" />
+      <File FileName="Assets\PREFABS\SplashScreenRed.js" Line="1" Column="1" />
+      <File FileName="Assets\PREFABS\SplashScreenBlue.js" Line="13" Column="4" />
+      <File FileName="Assets\PREFABS\ScreenSplashRedAlien.js" Line="1" Column="1" />
+      <File FileName="Assets\PREFABS\ScreenSplashBlueAlien.js" Line="16" Column="26" />
+      <File FileName="Assets\Scripts\NukeSplashManager_Red.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameGUI_SinglePlayer.js" Line="1409" Column="1" />
+      <File FileName="Assets\Scripts\MainMenu\MainMenu.js" Line="2781" Column="3" />
+      <File FileName="Assets\Scripts\Single Player\StarMap_Controller.js" Line="1109" Column="26" />
+      <File FileName="Assets\Scripts\AIAlien.js" Line="5966" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

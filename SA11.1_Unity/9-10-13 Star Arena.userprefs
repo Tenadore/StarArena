@@ -1,0 +1,44 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\MainMenu\MainMenu.js">
+    <Files>
+      <File FileName="Assets\Scripts\MainMenu\MainMenu.js" Line="571" Column="7" />
+      <File FileName="Assets\DBTest.js" Line="59" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="D:\1A_StarArenaBetas_\9-10-13 Star Arena\Assets\Scripts\Unitcontroller.js" line="192" />
+      <Breakpoint file="D:\1A_StarArenaBetas_\9-10-13 Star Arena\Assets\Scripts\Unitcontroller.js" line="778" />
+      <Breakpoint file="D:\1A_StarArenaBetas_\9-10-13 Star Arena\Assets\Scripts\Unitcontroller.js" line="797" />
+      <Breakpoint file="D:\1A_StarArenaBetas_\9-10-13 Star Arena\Assets\Scripts\Unitcontroller.js" line="1790" />
+      <Breakpoint file="D:\1A_StarArenaBetas_\9-10-13 Star Arena\Assets\Scripts\GameGUI_Manager.js" line="1671" />
+      <Breakpoint file="D:\1A_StarArenaBetas_\9-10-13 Star Arena\Assets\Scripts\GameGUI_Manager.js" line="1699" />
+      <Breakpoint file="D:\1A_StarArenaBetas_\9-10-13 Star Arena\Assets\Scripts\GameGUI_Manager.js" line="1079" />
+      <Breakpoint file="D:\1A_StarArenaBetas_\9-10-13 Star Arena\Assets\Scripts\GameGUI_SinglePlayer.js" line="2103" />
+      <Breakpoint file="D:\1A_StarArenaBetas_\9-10-13 Star Arena\Assets\Scripts\GameGUI_SinglePlayer.js" line="2132" />
+      <Breakpoint file="D:\1A_StarArenaBetas_\9-10-13 Star Arena\Assets\Scripts\GameGUI_SinglePlayer.js" line="2137" />
+      <Breakpoint file="D:\1A_StarArenaBetas_\9-10-13 Star Arena\Assets\Scripts\GameGUI_SinglePlayer.js" line="2217" />
+      <Breakpoint file="D:\1A_StarArenaBetas_\9-10-13 Star Arena\Assets\Scripts\GameGUI_SinglePlayer.js" line="2216" />
+      <Breakpoint file="D:\1A_StarArenaBetas_\9-10-13 Star Arena\Assets\Scripts\GameGUI_SinglePlayer.js" line="2218" />
+      <Breakpoint file="D:\1A_StarArenaBetas_\9-10-13 Star Arena\Assets\Scripts\GameGUI_SinglePlayer.js" line="2219" />
+      <Breakpoint file="D:\1A_StarArenaBetas_\9-10-13 Star Arena\Assets\Scripts\GameGUI_SinglePlayer.js" line="3909" />
+      <Breakpoint file="D:\1A_StarArenaBetas_\9-10-13 Star Arena\Assets\Scripts\GameGUI_SinglePlayer.js" line="1901" />
+      <Breakpoint file="D:\1A_StarArenaBetas_\9-10-13 Star Arena\Assets\Scripts\GameGUI_SinglePlayer.js" line="4785" />
+      <Breakpoint file="D:\1A_StarArenaBetas_\9-10-13 Star Arena\Assets\Scripts\MainMenu\MainMenu.js" line="567" />
+      <Breakpoint file="D:\1A_StarArenaBetas_\9-10-13 Star Arena\Assets\Scripts\MainMenu\MainMenu.js" line="647" />
+      <Breakpoint file="D:\1A_StarArenaBetas_\9-10-13 Star Arena\Assets\Scripts\MainMenu\MainMenu.js" line="681" />
+      <Breakpoint file="D:\1A_StarArenaBetas_\9-10-13 Star Arena\Assets\Scripts\MainMenu\MainMenu.js" line="818" />
+      <Breakpoint file="D:\1A_StarArenaBetas_\9-10-13 Star Arena\Assets\Scripts\MainMenu\MainMenu.js" line="843" />
+      <Breakpoint file="D:\1A_StarArenaBetas_\9-10-13 Star Arena\Assets\Scripts\MainMenu\MainMenu.js" line="2292" />
+      <Breakpoint file="D:\1A_StarArenaBetas_\9-10-13 Star Arena\Assets\Scripts\MainMenu\MainMenu.js" line="2326" />
+      <Breakpoint file="D:\1A_StarArenaBetas_\9-10-13 Star Arena\Assets\Scripts\MainMenu\MainMenu.js" line="757" />
+      <Breakpoint file="D:\1A_StarArenaBetas_\9-10-13 Star Arena\Assets\Scripts\MainMenu\MainMenu.js" line="760" />
+      <Breakpoint file="D:\1A_StarArenaBetas_\9-10-13 Star Arena\Assets\Scripts\MainMenu\MainMenu.js" line="2445" />
+      <Breakpoint file="D:\1A_StarArenaBetas_\9-10-13 Star Arena\Assets\Scripts\MainMenu\MainMenu.js" line="2461" />
+      <Breakpoint file="D:\1A_StarArenaBetas_\9-10-13 Star Arena\Assets\Scripts\MainMenu\MainMenu.js" line="2354" />
+      <Breakpoint file="D:\1A_StarArenaBetas_\9-10-13 Star Arena\Assets\Scripts\MainMenu\MainMenu.js" line="593" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\StarArrena v6.1\Assets\Scripts\BaseManager.js">
+    <Files>
+      <File FileName="..\StarArrena v6.1\Assets\Scripts\BaseManager.js" Line="172" Column="3" />
+      <File FileName="Assets\Scripts\GameGUI_Manager.js" Line="1055" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

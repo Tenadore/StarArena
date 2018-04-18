@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\GameGUI_SinglePlayer.js">
+    <Files>
+      <File FileName="Assets\Scripts\Unitcontroller.js" Line="933" Column="35" />
+      <File FileName="Assets\Scripts\GameGUI_Manager.js" Line="907" Column="2" />
+      <File FileName="Assets\Scripts\GameGUI_SinglePlayer.js" Line="230" Column="34" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

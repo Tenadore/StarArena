@@ -1,0 +1,8 @@
+If we do not want the error displayed as a backplate (see backplates folder for examples), and instead as a text label,
+
+We can use these, as they will fit directly to the right of the log in/create account text fields 
+
+
+
+"Connecting to server" will be displayed when database is accessed to create a new account. If it reports successful, it will then go to the 
+"Account created Successfully" backplate

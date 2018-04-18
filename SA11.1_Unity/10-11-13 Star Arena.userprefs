@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\MainMenu\MainMenu.js">
+    <Files>
+      <File FileName="Assets\Scripts\MainMenu\MainMenu.js" Line="953" Column="7" />
+      <File FileName="Assets\Scripts\Single Player\StarMap_Controller.js" Line="156" Column="1" />
+      <File FileName="Assets\Scripts\NukeSplashManager_Blue.js" Line="42" Column="2" />
+      <File FileName="Assets\Scripts\NukeSplashManager_Red.js" Line="49" Column="25" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

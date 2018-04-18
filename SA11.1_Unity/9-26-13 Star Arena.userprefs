@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\92613LERPCAM\CameraFOVLerp.js">
+    <Files>
+      <File FileName="Assets\92613LERPCAM\CameraFOVLerp.js" Line="72" Column="26" />
+      <File FileName="Assets\Scripts\GameGUI_SinglePlayer.js" Line="388" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

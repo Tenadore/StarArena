@@ -1,0 +1,207 @@
+fileFormatVersion: 2
+guid: e6ef68c66e2930044b86685f7d16ec5e
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: IK Chain004
+    100002: IK Chain003
+    100004: Group001
+    100006: IK Chain002
+    100008: IK Chain001
+    100010: Group003
+    100012: MAINDUMMY
+    100014: Griefer
+    100016: //RootNode
+    100018: Bone009
+    100020: Bone004
+    100022: Bone003
+    100024: Bone002
+    100026: Bone001
+    100028: Dummy001
+    100030: IK Chain005
+    100032: IK Chain006
+    100034: Group002
+    100036: Dummy002_Turret
+    100038: Bone008
+    100040: Bone007
+    100042: Bone006
+    100044: Bone005
+    100046: Bone012
+    100048: Bone011
+    100050: Bone010
+    100052: muzzleflash
+    100054: healthorb
+    100056: Dummy002
+    100058: Dummy002_Turret001
+    400000: IK Chain004
+    400002: IK Chain003
+    400004: Group001
+    400006: IK Chain002
+    400008: IK Chain001
+    400010: Group003
+    400012: MAINDUMMY
+    400014: Griefer
+    400016: //RootNode
+    400018: Bone009
+    400020: Bone004
+    400022: Bone003
+    400024: Bone002
+    400026: Bone001
+    400028: Dummy001
+    400030: IK Chain005
+    400032: IK Chain006
+    400034: Group002
+    400036: Dummy002_Turret
+    400038: Bone008
+    400040: Bone007
+    400042: Bone006
+    400044: Bone005
+    400046: Bone012
+    400048: Bone011
+    400050: Bone010
+    400052: muzzleflash
+    400054: healthorb
+    400056: Dummy002
+    400058: Dummy002_Turret001
+    2300000: healthorb
+    3300000: healthorb
+    4300000: Griefer
+    4300002: healthorb
+    4300004: muzzleflash
+    7400000: Take 001
+    7400002: run
+    7400004: shoot
+    7400006: die
+    11100000: //RootNode
+    13700000: Griefer
+    13700002: muzzleflash
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 0
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: run
+      takeName: 
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: shoot
+      takeName: 
+      firstFrame: 31
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: die
+      takeName: 
+      firstFrame: 62
+      lastFrame: 80
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .200000003
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  userData: 

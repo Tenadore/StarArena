@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\CameraControls.js">
+    <Files>
+      <File FileName="Assets\Scripts\Single Player\StarMap_Controller.js" Line="773" Column="42" />
+      <File FileName="Assets\Scripts\GameGUI_Manager.js" Line="926" Column="84" />
+      <File FileName="Assets\Scripts\GameGUI_SinglePlayer.js" Line="1855" Column="29" />
+      <File FileName="Assets\Scripts\Unitcontroller.js" Line="862" Column="248" />
+      <File FileName="Assets\Scripts\MainMenu\MainMenu.js" Line="1182" Column="16" />
+      <File FileName="Assets\Scripts\NukeSplashManager_Blue.js" Line="72" Column="6" />
+      <File FileName="Assets\Scripts\CameraControls.js" Line="24" Column="19" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

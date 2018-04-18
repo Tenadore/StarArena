@@ -1,0 +1,8 @@
+NOTE - In the TOP RIGHT CORNER of the online game backplates, the name you have logged in as must be displayed! DO NOT FORGET.
+
+
+
+
+
+Many of these were already completed in a past dump folder, please implement things as fast as possible so I do not end up making doubles
+(Speaking mainly for the Volume and Graphics text frames)

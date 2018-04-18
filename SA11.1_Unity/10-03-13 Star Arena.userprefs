@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\EndGameScrollingStuff\EndGameController.js">
+    <Files>
+      <File FileName="Assets\Scripts\MainMenu\MainMenu.js" Line="2270" Column="3" />
+      <File FileName="Assets\Scripts\GameGUI_SinglePlayer.js" Line="1302" Column="4" />
+      <File FileName="Assets\Scripts\GameGUI_Manager.js" Line="965" Column="4" />
+      <File FileName="Assets\Scripts\GameGUI_Tutorial.js" Line="192" Column="1" />
+      <File FileName="Assets\Scripts\EndGameScrollingStuff\EndGameController.js" Line="23" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

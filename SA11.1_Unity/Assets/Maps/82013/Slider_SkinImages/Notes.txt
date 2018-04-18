@@ -1,0 +1,9 @@
+The Slider arguments will accept TWO GUIStyles for a slider:
+
+-A thumb
+-A bar
+
+Create 2 new GUIStyles using these images, and apply them to your existing slider. Tweaking may be necessary to get the size correct. 
+Should be pretty easy.
+
+You can also create a single GUISkin which will accept images for the thumb and slider fields, which you can also apply to the slider. 

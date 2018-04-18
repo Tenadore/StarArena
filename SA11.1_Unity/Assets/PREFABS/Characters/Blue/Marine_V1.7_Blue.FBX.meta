@@ -1,0 +1,357 @@
+fileFormatVersion: 2
+guid: d2d73b828e354d9479f824bf9ec70897
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: Hand001
+    100002: Gun
+    100004: Gun Main
+    100006: Gun_Sight
+    100008: GunClip
+    100010: GunHandle
+    100012: GunBarrel
+    100014: ArmLower001
+    100016: Hand
+    100018: ArmLower
+    100020: Foot
+    100022: Shoulder001
+    100024: ArmUpper001
+    100026: ArmUpper
+    100028: Foot001
+    100030: Shoulder
+    100032: LegRing 3
+    100034: Shin001
+    100036: LegRing 2
+    100038: Shin
+    100040: Facemask
+    100042: Helmet
+    100044: LegRing 1
+    100046: Thigh001
+    100048: Thigh
+    100050: Knee001
+    100052: LegRing
+    100054: Knee
+    100056: Chest
+    100058: ArmorPiece
+    100060: Belly
+    100062: Hip_L001
+    100064: Hip_L
+    100066: Bip001 R Hand
+    100068: Bip001 L Hand
+    100070: Bip001 HeadNub
+    100072: Bip001 Head
+    100074: Bip001 Neck
+    100076: Bip001 R Toe0
+    100078: Bip001 R Foot
+    100080: Bip001 R Calf
+    100082: Bip001 R Thigh
+    100084: Bip001 L Toe0
+    100086: Bip001 L Foot
+    100088: Bip001 L Calf
+    100090: Bip001 L Thigh
+    100092: Bip001 Spine
+    100094: Bip001 Pelvis
+    100096: rootJoint
+    100098: //RootNode
+    100100: Bip001 R Finger0Nub
+    100102: Bip001 R Finger0
+    100104: Bip001 R Forearm
+    100106: Bip001 R UpperArm
+    100108: Bip001 R Clavicle
+    100110: Bip001 L Finger0Nub
+    100112: Bip001 L Finger0
+    100114: Bip001 L Forearm
+    100116: Bip001 L UpperArm
+    100118: Bip001 L Clavicle
+    100120: Bip001 R Toe0Nub
+    100122: Bip001 L Toe0Nub
+    100124: Bip001 Footsteps
+    400000: Hand001
+    400002: Gun
+    400004: Gun Main
+    400006: Gun_Sight
+    400008: GunClip
+    400010: GunHandle
+    400012: GunBarrel
+    400014: ArmLower001
+    400016: Hand
+    400018: ArmLower
+    400020: Foot
+    400022: Shoulder001
+    400024: ArmUpper001
+    400026: ArmUpper
+    400028: Foot001
+    400030: Shoulder
+    400032: LegRing 3
+    400034: Shin001
+    400036: LegRing 2
+    400038: Shin
+    400040: Facemask
+    400042: Helmet
+    400044: LegRing 1
+    400046: Thigh001
+    400048: Thigh
+    400050: Knee001
+    400052: LegRing
+    400054: Knee
+    400056: Chest
+    400058: ArmorPiece
+    400060: Belly
+    400062: Hip_L001
+    400064: Hip_L
+    400066: Bip001 R Hand
+    400068: Bip001 L Hand
+    400070: Bip001 HeadNub
+    400072: Bip001 Head
+    400074: Bip001 Neck
+    400076: Bip001 R Toe0
+    400078: Bip001 R Foot
+    400080: Bip001 R Calf
+    400082: Bip001 R Thigh
+    400084: Bip001 L Toe0
+    400086: Bip001 L Foot
+    400088: Bip001 L Calf
+    400090: Bip001 L Thigh
+    400092: Bip001 Spine
+    400094: Bip001 Pelvis
+    400096: rootJoint
+    400098: //RootNode
+    400100: Bip001 R Finger0Nub
+    400102: Bip001 R Finger0
+    400104: Bip001 R Forearm
+    400106: Bip001 R UpperArm
+    400108: Bip001 R Clavicle
+    400110: Bip001 L Finger0Nub
+    400112: Bip001 L Finger0
+    400114: Bip001 L Forearm
+    400116: Bip001 L UpperArm
+    400118: Bip001 L Clavicle
+    400120: Bip001 R Toe0Nub
+    400122: Bip001 L Toe0Nub
+    400124: Bip001 Footsteps
+    4300000: Hip_L
+    4300002: Hip_L001
+    4300004: Belly
+    4300006: ArmorPiece
+    4300008: Chest
+    4300010: Knee
+    4300012: LegRing
+    4300014: Knee001
+    4300016: Thigh
+    4300018: Thigh001
+    4300020: LegRing
+    4300022: Helmet
+    4300024: Facemask
+    4300026: Shin
+    4300028: LegRing
+    4300030: Shin001
+    4300032: LegRing
+    4300034: Shoulder
+    4300036: Foot001
+    4300038: ArmUpper
+    4300040: ArmUpper001
+    4300042: Shoulder001
+    4300044: Foot
+    4300046: ArmLower
+    4300048: ArmLower001
+    4300050: Hand001
+    4300052: Hand
+    4300054: Gun Main
+    4300056: Gun_Sight
+    4300058: GunClip
+    4300060: GunHandle
+    4300062: GunBarrel
+    7400000: Take 001
+    7400002: run
+    7400004: idle
+    7400006: shoot
+    7400008: die
+    11100000: //RootNode
+    13700000: Hand001
+    13700002: Gun Main
+    13700004: Gun_Sight
+    13700006: GunClip
+    13700008: GunHandle
+    13700010: GunBarrel
+    13700012: ArmLower001
+    13700014: Hand
+    13700016: ArmLower
+    13700018: Foot
+    13700020: Shoulder001
+    13700022: ArmUpper001
+    13700024: ArmUpper
+    13700026: Foot001
+    13700028: Shoulder
+    13700030: LegRing 3
+    13700032: Shin001
+    13700034: LegRing 2
+    13700036: Shin
+    13700038: Facemask
+    13700040: Helmet
+    13700042: LegRing 1
+    13700044: Thigh001
+    13700046: Thigh
+    13700048: Knee001
+    13700050: LegRing
+    13700052: Knee
+    13700054: Chest
+    13700056: ArmorPiece
+    13700058: Belly
+    13700060: Hip_L001
+    13700062: Hip_L
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: run
+      takeName: 
+      firstFrame: 0
+      lastFrame: 25
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: idle
+      takeName: 
+      firstFrame: 26
+      lastFrame: 31
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: shoot
+      takeName: 
+      firstFrame: 35
+      lastFrame: 47
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: die
+      takeName: 
+      firstFrame: 60
+      lastFrame: 80
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  userData: 

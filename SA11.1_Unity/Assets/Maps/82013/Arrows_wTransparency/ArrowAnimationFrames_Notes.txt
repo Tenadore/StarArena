@@ -1,0 +1,12 @@
+Type 1
+0-15
+15-30
+
+Type 2
+0-10
+10-20
+
+
+Import these and create new prefabs with them. In the inspector on objects that reference the old arrow prefabs,
+replace them with the newly created prefab. These should import directly with transparent texture applied and should
+react the same in the code. Easy.
